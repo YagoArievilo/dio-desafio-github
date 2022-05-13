@@ -1,0 +1,1 @@
+Git é um **sistema de versionamento que foi projetado com foco em versionamento de código**. Basicamente, nos ajuda a lidar com a modificação de arquivos de uma maneira fácil e indolor. Github, por outro lado, é uma empresa que implementou um sistema que permite que você use git para criar uma versão de seu código enquanto o armazena em sua nuvem.
